@@ -1,0 +1,14 @@
+/* You can add global styles to this file, and also import other style files */
+*{
+    font-family: 'segoe UI';
+    color:aliceblue
+}
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: 0;
+    background-color: #111111;
+}
+a{
+    text-decoration: none;
+}
